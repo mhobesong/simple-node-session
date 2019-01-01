@@ -1,6 +1,8 @@
  /**
  * simple-node-session.js
- * https://fengyuanchen.github.io/viewerjs
+ * https://github.com/mhobesong/simple-node-session
+ *
+ * email: mosbesong@gmail.com
  *
  * Copyright 2018
  * Released under the MIT license
